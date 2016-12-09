@@ -7,16 +7,16 @@ De gegevenscatalogus Grondwatermonitoringsput is nog niet gepubliceerd.
 
 # Consultatie toelichting: how to
 
-De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd. Vanaf december 2016 is er via deze site een consultatie van twee gegevenscatalogi van de BRO: Geotechnisch Sondeeronderzoek en Grondwatermonitoringput. Voor attendering van stakeholders (netbeheerders, grondroerders, dienstenaanbieders en softwareleveranciers) is er een emailnotificatie.
+De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd. Vanaf december 2016 is er via deze site een consultatie van twee gegevenscatalogi van de BRO: Geotechnisch Sondeeronderzoek en Grondwatermonitoringput. Voor attendering van stakeholders is er een emailnotificatie.
 
-De consultatie is gestructureerd rond deze twee gegevenscatalogi. De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het github platform middels issues worden geplaatst. Elk onderdeel heeft daarvoor een voorbeeldtemplate.
+De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het github platform middels issues worden geplaatst. 
 
-In principe zijn er 4 handelingen. 1. Document downloaden; 2. issues aanmaken per onderdeel; 3. issue een label geven; 4. issue bewaren.
-
-Issues worden geplaatst door eerst naar onderstaande links te gaan. Eventueel het document te openen in een apart scherm, en de issue knop te gebruiken om de issuelijst te openen en een nieuw issue te plaatsen. Geef bij nieuwe issues ook een label middels de label knop.
+Ga naar één van de onderstaande links om te beginnen met de consultatie. 
 
 - [Review Geotechnisch Sondeeronderzoek][2]
 - [Review Grondwatermonitoringput][3]
+
+U kunt ook alle gemelde issues bekijken: 
 - [Link naar alle al gemelde BRO consultatie issues][1]
 
 [1]: https://github.com/lvdbrink/Demo-BRO-Consultatie/issues
