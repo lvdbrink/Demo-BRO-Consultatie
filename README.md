@@ -11,6 +11,8 @@ De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief m
 
 De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het github platform middels issues worden geplaatst. 
 
+**Let op: **om issues te plaatsen, moet u een Github gebruikersaccount hebben. [Klik hier om een account te maken][4]. 
+
 Ga naar één van de onderstaande links om te beginnen met de consultatie. 
 
 - [Review Geotechnisch Sondeeronderzoek][2]
@@ -22,3 +24,4 @@ U kunt ook alle gemelde issues bekijken:
 [1]: https://github.com/lvdbrink/Demo-BRO-Consultatie/issues
 [2]: https://github.com/lvdbrink/Demo-BRO-Consultatie/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
 [3]: https://github.com/lvdbrink/Demo-BRO-Consultatie/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
+[4]: https://github.com/join
