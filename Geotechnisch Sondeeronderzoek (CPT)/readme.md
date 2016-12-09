@@ -1,6 +1,6 @@
 # Consultatie Geotechnisch Sondeeronderzoek
 
-1. Download het PDF document. **Tip:** Klik op het PDF document en klik dan op Download. U kunt dan het document bekijken in uw eigen PDF reader. 
+1. Download het PDF document. **Tip:** Klik op het PDF document en klik dan op Download. U kunt dan het document bekijken in uw eigen PDF reader. Dat is handiger dan de Github viewer.
 2. Review het document.
 3. Om een nieuw issue aan te maken: 
   1. Controleer eerst of het issue al gemeld is: [bestaande issues Geotechnisch Sondeeronderzoek][1]
