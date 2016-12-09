@@ -9,7 +9,7 @@ De gegevenscatalogus Grondwatermonitoringsput is nog niet gepubliceerd.
 
 De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd. Vanaf december 2016 is er via deze site een consultatie van twee gegevenscatalogi van de BRO: Geotechnisch Sondeeronderzoek en Grondwatermonitoringput. Voor attendering van stakeholders is er een emailnotificatie.
 
-De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het github platform middels issues worden geplaatst. 
+De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het Github platform middels issues worden geplaatst. 
 
 **Let op:** om issues te plaatsen, moet u een Github gebruikersaccount hebben. [Klik hier om een account te maken][4]. 
 
