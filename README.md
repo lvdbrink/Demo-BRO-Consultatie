@@ -1,7 +1,7 @@
 # Toelichting BRO consultatie
 Dit is een demo die laat zien hoe je de consultatie van BRO gegevenscatalogi via Github kan laten plaatsvinden. 
 
-De gegevenscatalogi die in deze repository zijn gepubliceerd zijn niet de officiële BRO gegevenscatalogi. De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek (CPT) is te vinden op https://www.broinfo.nl/sites/www.broinfo.nl/files/broinfo_Catalogus%20voor%20Geotechnisch%20Sondeeronderzoek_maart%202016.pdf
+De gegevenscatalogi die in deze repository zijn gepubliceerd zijn niet de officiële BRO gegevenscatalogi. De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek (CPT) te vinden op de BRO Info site. [Klik hier voor de officiele versie][5]. 
 
 De gegevenscatalogus Grondwatermonitoringsput is nog niet gepubliceerd.
 
@@ -25,3 +25,4 @@ U kunt ook alle gemelde issues bekijken:
 [2]: https://github.com/lvdbrink/Demo-BRO-Consultatie/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
 [3]: https://github.com/lvdbrink/Demo-BRO-Consultatie/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
 [4]: https://github.com/join
+[5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/broinfo_Catalogus%20voor%20Geotechnisch%20Sondeeronderzoek_maart%202016.pdf
