@@ -11,7 +11,7 @@ De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief m
 
 De gegevenscatalogi staan ieder in een eigen subfolder als PDF document. Opmerkingen en vragen moeten in het github platform middels issues worden geplaatst. 
 
-**Let op: **om issues te plaatsen, moet u een Github gebruikersaccount hebben. [Klik hier om een account te maken][4]. 
+**Let op:** om issues te plaatsen, moet u een Github gebruikersaccount hebben. [Klik hier om een account te maken][4]. 
 
 Ga naar één van de onderstaande links om te beginnen met de consultatie. 
 
