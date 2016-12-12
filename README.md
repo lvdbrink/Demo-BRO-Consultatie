@@ -1,5 +1,5 @@
 # Toelichting BRO consultatie
-Dit is een joepie de poepie die laat zien hoe je de consultatie van BRO gegevenscatalogi via Github kan laten plaatsvinden. 
+Dit is een demo die laat zien hoe je de consultatie van BRO gegevenscatalogi via Github kan laten plaatsvinden. 
 
 De gegevenscatalogi die in deze repository zijn gepubliceerd zijn niet de officiële BRO gegevenscatalogi. De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek (CPT) te vinden op de BRO Info site. [Klik hier voor de officiele versie][5]. 
 
